@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "noImplicitReturns": true,
+        "esModuleInterop": true,
+        "noUnusedLocals": true,
+        "outDir": "./dist",
+        "sourceMap": true,
+        "strict": true,
+        "target": "ES6"
+    },
+    "compileOnSave": true,
+    "include": ["./index.ts", "src"]
+}
